@@ -4,11 +4,15 @@ author: default
 permalink: /
 ---
 
-# 見出し
+# ずんだもんって何なのだ！？
+ 
+ 皆様は合成音声といえば何を思い浮かぶだろうか. 
+ 初音ミクで有名なVOCALOIDか、ゆっくり霊夢などのsoftalkか、  
+ あるいは琴葉姉妹などで使われているVOICELOIDか・・・  
+ もちろんどれも魅力的なキャラクターで、とても印象的な音声を持っているが特にその中でも私が推しているのは  
+ **ずんだもん**である。
 
-ここに内容を記述する！
-
-
+ [VOICEVOX](https://voicevox.hiroshiba.jp/)
 
 ---
 
@@ -24,12 +28,10 @@ permalink: /
 改行は、行末に半角スペースを2個いれる  
 次の行
 
-[リンク](https://www.google.co.jp/)
+[VOICEVOX](https://voicevox.hiroshiba.jp/)
 
 **太字**
 
-> 引用
->> 多重引用
 
 
 - 箇条書きリスト
@@ -47,4 +49,6 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/220422_GitHubPages/assets/images/logo-150.png)
+
+> [リンク]https://voicevox.hiroshiba.jp/
+>> 多重引用
