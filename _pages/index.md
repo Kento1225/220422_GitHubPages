@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "ずんだもんって何なのだ！？"
 author: default
 permalink: /
 ---
